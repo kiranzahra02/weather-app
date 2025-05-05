@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  font-family: sans-serif;
+  background-image: blur(5px);
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-left: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.weather-card {
+  border: 1px solid #ccc;
+  display:flexbox;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f4f4f4;
+}
